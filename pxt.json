@@ -1,5 +1,6 @@
 {
     "name": "BATA LEGEND  - Copy",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
